@@ -1,0 +1,20 @@
+{
+  "name": "shptogeojson",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "geojson": "^0.5.0",
+    "geojson2shp": "^0.5.0",
+    "proj4": "^2.9.2",
+    "shapefile": "^0.6.6",
+    "shp-write": "^0.3.2",
+    "shpjs": "^4.0.4"
+  }
+}
